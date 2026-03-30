@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: gitops-app
-        image: aderixxe/gitops-app:3b2a89b83ba9558d002420ec76b845740360576f
+        image: aderixxe/gitops-app:fb11603b5b27c329baf19d598a29a32b9210b7c2
         ports:
         - containerPort: 3000
